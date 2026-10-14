@@ -22,6 +22,28 @@ Create charts to communicate findings clearly.
 
 Develop actionable business insights from the data.
 
+📊 Key Business Insights
+
+Based on the initial analysis of the fictional retail dataset:
+
+Electronics generated the highest revenue at 82,888.93 and the highest estimated profit at 34,260.66.
+
+Furniture generated 49,263.53 in revenue and 18,702.27 in estimated profit.
+
+Stationery had the lowest estimated profit margin at approximately 1.77%, making it a category worth investigating further.
+
+Electronics had the highest order count, with 112 orders.
+
+Recommendations
+
+Investigate the low estimated profit margin in Stationery by reviewing discounts and estimated costs.
+
+Study Electronics sales to understand which products contribute most to its performance.
+
+Continue monitoring revenue, estimated profit, and order volume by category.
+
+Note: These insights are based on fictional practice data and are not real business results.
+
 🗂️ Dataset Description
 
 The dataset contains 300 fictional retail orders from 2025.
