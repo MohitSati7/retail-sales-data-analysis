@@ -1,54 +1,36 @@
-📊 Retail Sales Data Analysis | Google Sheets
+📊 Retail Sales Data Analysis
 
-A data analytics portfolio project exploring retail revenue, estimated profit, product category performance, and business insights using Google Sheets.
+A beginner-friendly data analytics project exploring retail sales, revenue, estimated profit, and product category performance using spreadsheet analysis and data visualization.
 
-👋 About This Project
+📌 Project Overview
 
-This project is part of my journey toward becoming a Data Analyst. I worked with a fictional retail sales dataset to practice data quality checks, KPI calculations, category-level analysis, and data visualization.
+This project analyzes a fictional retail dataset containing 300 orders from 2025. The objective is to understand sales performance, calculate key performance indicators (KPIs), compare product categories, and communicate findings through a business-style chart.
 
-The goal is to turn raw sales data into understandable metrics and business insights that can support better decision-making.
+This is my beginner data analytics portfolio project, where I am developing practical skills in data cleaning, spreadsheet formulas, KPI calculation, data visualization, and business analysis.
 
-🎯 Business Objectives
+🎯 Project Objectives
 
-Measure overall retail sales performance using key performance indicators (KPIs).
+Calculate key business KPIs, including total revenue, estimated profit, and average revenue per order.
 
-Analyze total revenue and estimated profit.
+Check the dataset for missing product names and duplicate order IDs.
 
 Compare revenue and estimated profit across product categories.
 
-Examine order volume and sales quantity.
+Identify high-performing and low-margin categories.
 
-Identify categories that may need further investigation.
+Visualize category performance using a grouped bar chart.
 
-Present findings through clear charts and documentation.
+Develop actionable recommendations based on the findings.
 
-🛠️ Tools & Skills
+🛠️ Tools & Technologies
 
-Tools
+WPS Spreadsheet / Excel-compatible spreadsheet tools — data analysis, formulas, KPI calculations, and chart creation.
 
-Google Sheets / Spreadsheet formulas
+CSV — raw dataset storage and data sharing.
 
-WPS Office for spreadsheet analysis and visualization
+GitHub — project documentation, portfolio presentation, and version control.
 
-GitHub for project documentation and version control
-
-Skills Practiced
-
-Data quality validation
-
-KPI calculation
-
-Spreadsheet formulas and conditional aggregation
-
-Category-level sales analysis
-
-Data visualization
-
-Business insight communication
-
-Project documentation
-
-📁 Dataset Overview
+📂 Dataset Description
 
 The dataset contains 300 fictional retail orders from 2025.
 
@@ -66,7 +48,7 @@ Date of the order
 
 Product
 
-Product name
+Product purchased
 
 Category
 
@@ -74,7 +56,7 @@ Product category
 
 Quantity
 
-Units ordered
+Number of units ordered
 
 Unit_Price
 
@@ -82,7 +64,7 @@ Price per unit before discount
 
 Discount_Pct
 
-Discount applied
+Discount percentage applied
 
 Region
 
@@ -90,7 +72,7 @@ Sales region
 
 Sales_Channel
 
-Sales channel
+Channel through which the sale occurred
 
 Revenue
 
@@ -98,17 +80,17 @@ Revenue after discount
 
 Estimated_Cost
 
-Illustrative estimated cost
+Estimated product cost
 
 Profit
 
-Estimated profit
+Estimated profit based on revenue and cost
 
-Data note: This is simulated practice data. Costs and profits are estimates, and the dataset does not represent an actual company or real business performance.
+Data note: This is simulated practice data. The revenue, cost, and profit figures are illustrative and do not represent the results of a real company. Currency units have not been independently verified.
 
-📈 Project KPIs
+📈 Key Performance Indicators (KPIs)
 
-The initial analysis produced the following results:
+The following KPIs were calculated from the dataset:
 
 KPI
 
@@ -134,107 +116,158 @@ Overall Estimated Profit Margin
 
 25.75%
 
-Profit margin formula:
+Calculation methods
 
-Estimated Profit Margin = (Total Estimated Profit / Total Revenue) × 100
+Total Revenue = Sum of all order revenue.
 
-These figures are expressed in the dataset's monetary units; a currency has not been independently verified.
+Total Estimated Profit = Sum of estimated profit across all orders.
 
-📊 Visualization: Revenue vs. Profit by Product Category
+Average Revenue per Order = Total Revenue ÷ Total Orders.
 
-The chart compares revenue and estimated profit across Accessories, Electronics, Furniture, and Stationery.
+Estimated Profit Margin = Total Estimated Profit ÷ Total Revenue × 100.
 
-![Revenue vs. Profit by Product Category](category-analysis.png.png)
+📊 Revenue vs. Profit by Product Category
 
-Key Findings
+The grouped bar chart compares total revenue and estimated profit across the four product categories.
 
-Electronics recorded the highest revenue at 82,888.93 and the highest estimated profit at 34,260.66.
 
-Furniture generated 49,263.53 in revenue and 18,702.27 in estimated profit.
 
-Accessories generated 12,243.43 in revenue and 3,509.07 in estimated profit.
+Category-wise Analysis
 
-Stationery generated 32,545.04 in revenue but only 575.59 in estimated profit.
+Product Category
 
-Business Interpretation
+Total Revenue
 
-Electronics is the strongest category by revenue and estimated profit in this dataset.
+Estimated Profit
 
-Stationery's estimated profit is low relative to its revenue, so its costs, discounts, and pricing would be worth investigating.
+Orders
 
-Revenue alone does not tell the full story; estimated profit helps provide a more complete view of category performance.
+Profit Margin
+
+Electronics
+
+82,888.93
+
+34,260.66
+
+112
+
+41.33%
+
+Furniture
+
+49,263.53
+
+18,702.27
+
+79
+
+37.96%
+
+Stationery
+
+32,545.04
+
+575.59
+
+66
+
+1.77%
+
+Accessories
+
+12,243.43
+
+3,509.07
+
+43
+
+28.66%
+
+Profit margin is calculated as estimated profit divided by revenue. Figures are in the dataset's unspecified currency units.
+
+🔍 Key Business Insights
+
+1. Electronics is the strongest-performing category
+
+Electronics generated the highest revenue at 82,888.93 and the highest estimated profit at 34,260.66. It also recorded the largest number of orders, with 112.
+
+Recommendation: Investigate which electronics products contribute most to revenue and profit, and identify opportunities to maintain this performance.
+
+2. Furniture delivers strong estimated profitability
+
+Furniture generated 49,263.53 in revenue and 18,702.27 in estimated profit, with an estimated profit margin of 37.96%.
+
+Recommendation: Review furniture product performance to understand which products contribute most to its profitability.
+
+3. Stationery requires further investigation
+
+Stationery generated 32,545.04 in revenue but only 575.59 in estimated profit. Its estimated profit margin is approximately 1.77%, the lowest among the four categories.
+
+Recommendation: Review product costs, discount levels, pricing, and the accuracy of the estimated cost assumptions to understand the low margin.
+
+4. Accessories has a smaller revenue contribution
+
+Accessories generated 12,243.43 in revenue and 3,509.07 in estimated profit, with an estimated profit margin of 28.66%.
+
+Recommendation: Examine product-level sales and order patterns to identify potential opportunities for growth.
+
+These insights are based on fictional practice data and should not be interpreted as actual business results.
 
 🧹 Data Quality Checks
 
-The following checks were performed during the initial data preparation:
+The following initial checks were completed:
 
-Confirmed 300 order records.
+Confirmed that the dataset contains 300 order records.
 
-Checked for missing product names.
+Checked for missing product names; none were found in the checked range.
 
-Checked for duplicate order IDs.
+Checked for duplicate order IDs; none were found in the checked range.
 
-Confirmed no missing product names or duplicate order IDs in the checked ranges.
+These are initial validation checks, not a complete audit of every column or calculation.
 
-💡 Recommendations
+❓ Business Questions Explored
 
-Based on the current analysis of the simulated data:
+Which product category generates the highest revenue?
 
-Investigate Stationery profitability: Review estimated costs, discounts, and pricing to understand its low profit margin.
+Which category contributes the most estimated profit?
 
-Study Electronics performance: Examine which products contribute most to its high revenue and estimated profit.
+Which category has the lowest estimated profit margin?
 
-Monitor multiple KPIs: Track revenue, estimated profit, profit margin, and order volume together rather than relying on revenue alone.
+How do revenue and estimated profit compare across categories?
 
-Extend the analysis: Compare regions and sales channels to identify additional patterns.
+What further investigation could help improve category profitability?
 
-These are preliminary recommendations based on the available practice dataset, not verified business conclusions.
+Regional performance, sales-channel comparisons, and additional visualizations are potential next steps for extending the analysis.
 
-📂 Repository Structure
+📁 Project Files
 
-retail-sales-data-analysis/
-│
-├── README.md
-├── Retail Sales Analysis.csv
-├── Retail Sales Analysis.xlsx
-└── category-analysis.png
+Retail Sales Analysis.csv — raw retail dataset.
 
-Retail Sales Analysis.csv — original dataset.
+Retail Sales Analysis.xlsx — spreadsheet workbook containing the dataset and category analysis.
 
-Retail Sales Analysis.xlsx — spreadsheet workbook containing the data and analysis sheets.
+Revenue vs. Profit by Category.png — category-wise revenue and estimated profit chart.
 
-category-analysis.png — revenue versus estimated profit chart.
-
-README.md — project documentation and findings.
-
-If your uploaded filenames differ, update this list to match the exact filenames shown in your GitHub repository.
+README.md — project overview, KPIs, findings, and documentation.
 
 🚀 Future Improvements
 
-Complete regional performance analysis.
+Analyze revenue and estimated profit by region.
 
-Compare revenue and estimated profit by sales channel.
+Compare sales performance across sales channels.
 
-Add more KPI visualizations.
+Perform deeper product-level analysis.
 
-Build a consolidated sales dashboard.
+Validate calculations and investigate data-quality issues across all columns.
 
-Document additional findings and business recommendations.
+Create an interactive dashboard using Power BI.
 
-Extend the project with SQL and/or Python analysis.
+Expand the project with additional charts and business recommendations.
 
 👨‍💻 About Me
 
-Hi, I'm Mohit Sati, an aspiring Data Analyst working on practical projects to develop my analytical and problem-solving skills.
+I'm Mohit Sati, an aspiring Data Analyst building practical skills in spreadsheet analysis, data cleaning, KPI reporting, and data visualization.
 
-I'm interested in working with data to identify patterns, understand business performance, and communicate useful insights through clear visualizations.
+I am developing portfolio projects to strengthen my analytical thinking, improve my ability to communicate insights, and prepare for opportunities in data analytics.
 
-I'm continuously learning and building projects to strengthen my portfolio and prepare for entry-level Data Analyst opportunities.
-
-🤝 Connect With Me
-
-GitHub: MohitSati7
-
-LinkedIn: Connect with me on LinkedIn
-
-⭐ Thank you for visiting my project! Feedback and suggestions are always welcome.
+Project Status: Initial KPI analysis and product category comparison completed; further analysis planned.
