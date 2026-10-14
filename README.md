@@ -1,10 +1,6 @@
 📊 Retail Sales Data Analysis | Google Sheets
 
 A data analytics portfolio project exploring retail revenue, estimated profit, product category performance, and business insights using Google Sheets.
-📊 Revenue vs. Profit by Product Category
-
-![Revenue vs. Profit by Product Category](category-analysis.png.png)
-
 
 👋 About This Project
 
@@ -148,7 +144,7 @@ These figures are expressed in the dataset's monetary units; a currency has not 
 
 The chart compares revenue and estimated profit across Accessories, Electronics, Furniture, and Stationery.
 
-
+![Revenue vs. Profit by Product Category](category-analysis.png.png)
 
 Key Findings
 
