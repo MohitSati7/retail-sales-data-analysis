@@ -130,7 +130,7 @@ Estimated Profit Margin = Total Estimated Profit ÷ Total Revenue × 100.
 
 The grouped bar chart compares total revenue and estimated profit across the four product categories.
 
-
+![Revenue vs. Profit by Category](Revenue%20vs.%20Profit%20by%20Category.png)
 
 Category-wise Analysis
 
