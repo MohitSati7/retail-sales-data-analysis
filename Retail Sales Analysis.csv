@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Discount_Pct,Region,Sales_Channel,Revenue,Estimated_Cost,Profit
+ORD0019,2025-01-01,Office Chair,Furniture,3,185.57,15,Central,In-store,473.2,378.07,95.13
+ORD0102,2025-01-02,Backpack,Accessories,2,26.78,0,West,In-store,53.56,29.06,24.5
+ORD0120,2025-01-02,Desk Lamp,Furniture,7,30.01,15,East,In-store,178.56,126.07,52.49
+ORD0153,2025-01-02,USB Drive,Electronics,4,14.86,0,East,Online,59.44,46.97,12.47
+ORD0275,2025-01-05,Keyboard,Electronics,12,82.24,20,East,Online,789.5,772.75,16.75
+ORD0207,2025-01-10,Desk Lamp,Furniture,12,36.86,10,East,Online,398.09,350.21,47.88
+ORD0024,2025-01-11,Printer Paper,Stationery,9,8.42,0,Central,Online,75.78,40.86,34.92
+ORD0151,2025-01-11,Headphones,Electronics,8,27.35,0,North,In-store,218.8,155.75,63.05
+ORD0178,2025-01-11,Pens,Stationery,7,2.98,5,East,Online,19.82,11.57,8.25
+ORD0212,2025-01-11,Headphones,Electronics,9,73.5,15,West,In-store,562.27,444.72,117.55
+ORD0144,2025-01-13,USB Drive,Electronics,11,33.21,0,Central,In-store,365.31,215.59,149.72
+ORD0108,2025-01-14,Pens,Stationery,1,3.61,10,North,Online,3.25,2.53,0.72
+ORD0154,2025-01-14,Keyboard,Electronics,9,30.3,0,South,Online,272.7,195.89,76.81
+ORD0258,2025-01-14,Pens,Stationery,5,3.29,10,Central,In-store,14.8,11.95,2.85
+ORD0205,2025-01-15,Notebook,Stationery,6,2.65,20,East,Online,12.72,10.06,2.66
+ORD0274,2025-01-19,Printer Paper,Stationery,3,8.01,15,West,In-store,20.43,19.23,1.2
+ORD0187,2025-01-22,Pens,Stationery,10,2.27,5,West,Online,21.56,15.58,5.98
+ORD0005,2025-01-23,Desk,Furniture,2,201.28,5,West,Online,382.43,241.28,141.15
+ORD0136,2025-01-26,Monitor,Electronics,1,245.82,10,Central,In-store,221.24,182.74,38.5
+ORD0044,2025-01-27,Backpack,Accessories,11,78.97,10,North,In-store,781.8,517.15,264.65
+ORD0171,2025-01-27,Water Bottle,Accessories,6,24.2,10,South,Online,130.68,79.2,51.48
+ORD0259,2025-01-27,Monitor,Electronics,11,297.9,15,Central,In-store,2785.36,2271.84,513.52
+ORD0174,2025-01-29,Notebook,Stationery,11,3.16,0,North,Online,34.76,28.34,6.42
+ORD0297,2025-01-29,Mouse,Electronics,12,10.08,5,South,In-store,114.91,82.49,32.42
+ORD0035,2025-01-30,Laptop,Electronics,10,912.23,20,Central,Online,7297.84,6197.12,1100.72
+ORD0290,2025-01-31,Pens,Stationery,2,0.66,5,North,In-store,1.25,0.71,0.54
+ORD0034,2025-02-01,Mouse,Electronics,5,18.23,0,East,Online,91.15,67.52,23.63
+ORD0262,2025-02-01,Desk,Furniture,9,330.24,20,South,Online,2377.73,2323.77,53.96
+ORD0025,2025-02-04,Pens,Stationery,4,0.53,10,North,In-store,1.91,1.14,0.77
+ORD0021,2025-02-05,Mouse,Electronics,10,52.51,0,Central,Online,525.1,349.61,175.49
+ORD0040,2025-02-05,Headphones,Electronics,9,39.74,0,South,In-store,357.66,286.12,71.54
+ORD0169,2025-02-05,Office Chair,Furniture,1,112.19,0,South,Online,112.19,80.46,31.73
+ORD0030,2025-02-08,Keyboard,Electronics,7,25.39,5,West,Online,168.84,139.05,29.79
+ORD0177,2025-02-09,Headphones,Electronics,7,105.9,0,East,In-store,741.3,389.64,351.66
+ORD0007,2025-02-10,Water Bottle,Accessories,2,5.19,0,South,Online,10.38,6.3,4.08
+ORD0292,2025-02-11,Printer Paper,Stationery,7,8.38,20,Central,Online,46.93,37.15,9.78
+ORD0087,2025-02-14,Desk,Furniture,12,273.67,5,East,In-store,3119.84,1949.57,1170.27
+ORD0138,2025-02-19,Backpack,Accessories,12,72.56,10,North,In-store,783.65,488.5,295.15
+ORD0160,2025-02-20,Desk,Furniture,10,254.47,5,North,Online,2417.46,1785.43,632.03
+ORD0001,2025-02-22,Backpack,Accessories,2,16.88,0,Central,Online,33.76,19.82,13.94
+ORD0188,2025-02-22,Office Chair,Furniture,10,172.5,0,East,Online,1725.0,929.02,795.98
+ORD0202,2025-02-22,USB Drive,Electronics,5,6.57,5,Central,Online,31.21,20.74,10.47
+ORD0065,2025-02-24,Backpack,Accessories,12,15.42,15,West,Online,157.28,138.97,18.31
+ORD0156,2025-02-25,Water Bottle,Accessories,2,16.38,15,West,Online,27.85,22.08,5.77
+ORD0014,2025-02-26,Mouse,Electronics,3,31.95,0,South,Online,95.85,51.2,44.65
+ORD0173,2025-02-26,Desk,Furniture,5,156.83,10,East,In-store,705.74,488.96,216.78
+ORD0208,2025-02-26,USB Drive,Electronics,3,21.46,10,East,Online,57.94,43.67,14.27
+ORD0295,2025-02-27,USB Drive,Electronics,4,12.43,5,North,In-store,47.23,29.97,17.26
+ORD0146,2025-03-01,Headphones,Electronics,3,22.63,0,North,Online,67.89,55.59,12.3
+ORD0117,2025-03-02,Headphones,Electronics,4,119.21,20,South,In-store,381.47,313.97,67.5
+ORD0093,2025-03-03,Monitor,Electronics,5,170.34,0,Central,Online,851.7,492.09,359.61
+ORD0175,2025-03-03,Monitor,Electronics,4,294.16,15,North,In-store,1000.14,714.03,286.11
+ORD0066,2025-03-04,Keyboard,Electronics,12,49.81,0,West,Online,597.72,355.5,242.22
+ORD0236,2025-03-05,Desk Lamp,Furniture,3,34.93,20,Central,Online,83.83,56.23,27.6
+ORD0096,2025-03-06,Monitor,Electronics,1,343.83,10,West,Online,309.45,250.73,58.72
+ORD0155,2025-03-06,Office Chair,Furniture,4,195.71,0,West,Online,782.84,469.4,313.44
+ORD0293,2025-03-07,Backpack,Accessories,6,23.9,20,South,Online,114.72,91.48,23.24
+ORD0163,2025-03-08,Headphones,Electronics,2,27.51,0,Central,Online,55.02,40.8,14.22
+ORD0026,2025-03-09,Headphones,Electronics,9,42.28,10,Central,In-store,342.47,222.33,120.14
+ORD0042,2025-03-10,Backpack,Accessories,9,37.45,10,East,Online,303.35,270.21,33.14
+ORD0119,2025-03-11,Bookshelf,Furniture,9,70.31,0,North,In-store,632.79,442.83,189.96
+ORD0271,2025-03-12,Laptop,Electronics,2,877.32,10,North,Online,1579.18,965.34,613.84
+ORD0232,2025-03-13,Desk Lamp,Furniture,6,38.96,0,South,In-store,233.76,135.65,98.11
+ORD0105,2025-03-14,Headphones,Electronics,9,40.93,0,North,Online,368.37,220.91,147.46
+ORD0130,2025-03-16,Laptop,Electronics,6,1087.88,0,South,In-store,6527.28,4128.19,2399.09
+ORD0203,2025-03-17,Monitor,Electronics,2,293.15,0,West,Online,586.3,464.11,122.19
+ORD0260,2025-03-17,Keyboard,Electronics,9,57.92,10,South,Online,469.15,402.61,66.54
+ORD0192,2025-03-18,Monitor,Electronics,12,314.38,20,East,Online,3018.05,2643.85,374.2
+ORD0261,2025-03-19,Pens,Stationery,12,0.88,0,West,Online,10.56,6.48,4.08
+ORD0079,2025-03-20,Desk Lamp,Furniture,1,62.33,0,South,Online,62.33,32.79,29.54
+ORD0197,2025-03-20,Backpack,Accessories,6,80.73,10,South,Online,435.94,338.67,97.27
+ORD0165,2025-03-21,Monitor,Electronics,10,184.99,0,West,Online,1849.9,1243.55,606.35
+ORD0170,2025-03-22,Headphones,Electronics,12,72.11,5,East,In-store,822.05,567.73,254.32
+ORD0201,2025-03-24,Desk Lamp,Furniture,5,53.24,10,South,Online,239.58,171.86,67.72
+ORD0081,2025-03-25,Pens,Stationery,10,3.87,10,East,Online,34.83,29.15,5.68
+ORD0129,2025-03-27,Desk,Furniture,2,325.71,10,East,Online,586.28,358.38,227.9
+ORD0061,2025-03-28,Bookshelf,Furniture,8,122.38,0,North,In-store,979.04,648.08,330.96
+ORD0263,2025-03-30,Notebook,Stationery,6,7.99,5,West,In-store,45.54,30.35,15.19
+ORD0110,2025-04-03,Desk Lamp,Furniture,3,36.94,10,Central,In-store,99.74,88.08,11.66
+ORD0195,2025-04-03,Backpack,Accessories,11,46.76,5,South,In-store,488.64,323.42,165.22
+ORD0097,2025-04-05,USB Drive,Electronics,1,22.22,5,North,In-store,21.11,14.49,6.62
+ORD0279,2025-04-05,USB Drive,Electronics,7,20.46,0,South,In-store,143.22,103.23,39.99
+ORD0029,2025-04-08,Desk,Furniture,12,195.18,15,Central,In-store,1990.84,1392.64,598.2
+ORD0278,2025-04-09,Laptop,Electronics,12,835.41,0,South,In-store,10024.92,7241.2,2783.72
+ORD0181,2025-04-10,Desk Lamp,Furniture,3,16.05,10,East,In-store,43.34,32.7,10.64
+ORD0182,2025-04-12,Water Bottle,Accessories,11,25.19,0,South,Online,277.09,156.26,120.83
+ORD0272,2025-04-13,Desk,Furniture,11,379.86,15,East,In-store,3551.69,2771.3,780.39
+ORD0286,2025-04-14,Printer Paper,Stationery,10,4.35,15,Central,Online,36.98,34.4,2.58
+ORD0101,2025-04-17,Pens,Stationery,10,0.71,20,South,In-store,5.68,3.9,1.78
+ORD0043,2025-04-18,Printer Paper,Stationery,2,11.91,0,East,Online,23.82,14.4,9.42
+ORD0137,2025-04-23,USB Drive,Electronics,5,28.27,0,South,In-store,141.35,107.51,33.84
+ORD0051,2025-04-24,Desk Lamp,Furniture,12,17.73,15,South,In-store,180.85,165.44,15.41
+ORD0078,2025-04-25,Bookshelf,Furniture,1,176.08,0,North,Online,176.08,141.85,34.23
+ORD0273,2025-04-29,Monitor,Electronics,11,124.2,15,Central,Online,1161.27,977.78,183.49
+ORD0062,2025-05-01,Notebook,Stationery,11,5.43,5,East,Online,56.74,45.72,11.02
+ORD0149,2025-05-01,Monitor,Electronics,1,275.67,0,East,Online,275.67,180.13,95.54
+ORD0225,2025-05-01,Keyboard,Electronics,10,61.5,5,East,In-store,584.25,343.09,241.16
+ORD0281,2025-05-01,Pens,Stationery,12,2.51,0,North,Online,30.12,18.91,11.21
+ORD0031,2025-05-02,Laptop,Electronics,11,1199.61,15,South,In-store,11216.35,10697.75,518.6
+ORD0069,2025-05-03,USB Drive,Electronics,11,13.32,15,East,In-store,124.54,97.49,27.05
+ORD0090,2025-05-04,Notebook,Stationery,4,1.6,10,West,In-store,5.76,4.27,1.49
+ORD0210,2025-05-04,USB Drive,Electronics,8,22.9,0,South,In-store,183.2,123.59,59.61
+ORD0009,2025-05-06,Water Bottle,Accessories,11,20.85,10,South,In-store,206.42,131.04,75.38
+ORD0050,2025-05-08,Water Bottle,Accessories,6,24.34,5,East,Online,138.74,105.29,33.45
+ORD0246,2025-05-08,Headphones,Electronics,1,47.6,5,South,In-store,45.22,33.54,11.68
+ORD0132,2025-05-11,Bookshelf,Furniture,10,70.05,5,North,In-store,665.48,417.63,247.85
+ORD0289,2025-05-11,Notebook,Stationery,8,5.71,5,North,Online,43.4,24.05,19.35
+ORD0080,2025-05-12,Bookshelf,Furniture,11,65.02,20,East,Online,572.18,471.69,100.49
+ORD0054,2025-05-14,Backpack,Accessories,9,39.84,0,South,In-store,358.56,280.79,77.77
+ORD0076,2025-05-14,Headphones,Electronics,11,61.72,15,West,In-store,577.08,390.05,187.03
+ORD0017,2025-05-15,Monitor,Electronics,7,147.96,0,Central,Online,1035.72,762.94,272.78
+ORD0045,2025-05-15,USB Drive,Electronics,5,6.32,5,South,In-store,30.02,17.67,12.35
+ORD0012,2025-05-16,Backpack,Accessories,8,44.67,20,South,Online,285.89,235.02,50.87
+ORD0126,2025-05-16,Desk,Furniture,11,390.69,0,East,In-store,4297.59,3242.35,1055.24
+ORD0016,2025-05-17,Notebook,Stationery,1,5.76,0,East,Online,5.76,4.52,1.24
+ORD0280,2025-05-17,Office Chair,Furniture,4,76.4,5,East,In-store,290.32,199.87,90.45
+ORD0109,2025-05-18,Backpack,Accessories,10,59.03,0,Central,Online,590.3,442.39,147.91
+ORD0269,2025-05-20,Mouse,Electronics,4,46.91,0,South,Online,187.64,129.21,58.43
+ORD0266,2025-05-21,Water Bottle,Accessories,12,16.71,5,East,Online,190.49,137.99,52.5
+ORD0299,2025-05-21,Printer Paper,Stationery,3,14.83,10,North,Online,40.04,28.65,11.39
+ORD0003,2025-05-23,Water Bottle,Accessories,11,22.23,5,North,Online,232.3,160.11,72.19
+ORD0166,2025-05-23,USB Drive,Electronics,2,15.5,10,Central,Online,27.9,17.19,10.71
+ORD0103,2025-05-25,Water Bottle,Accessories,10,16.22,0,West,Online,162.2,98.36,63.84
+ORD0186,2025-05-27,Notebook,Stationery,2,3.17,5,North,Online,6.02,3.41,2.61
+ORD0206,2025-05-27,USB Drive,Electronics,12,24.5,15,West,Online,249.9,165.02,84.88
+ORD0218,2025-05-27,USB Drive,Electronics,9,19.2,0,East,Online,172.8,123.39,49.41
+ORD0128,2025-05-28,USB Drive,Electronics,9,6.08,0,South,Online,54.72,38.82,15.9
+ORD0251,2025-05-28,Laptop,Electronics,7,678.14,10,North,In-store,4272.28,2984.7,1287.58
+ORD0135,2025-06-01,Mouse,Electronics,7,34.88,10,North,In-store,219.74,199.68,20.06
+ORD0139,2025-06-01,Desk Lamp,Furniture,8,13.77,5,East,In-store,104.65,61.63,43.02
+ORD0141,2025-06-01,USB Drive,Electronics,3,12.71,15,East,Online,32.41,25.34,7.07
+ORD0196,2025-06-01,Desk Lamp,Furniture,8,22.18,20,North,Online,141.95,100.52,41.43
+ORD0242,2025-06-02,Backpack,Accessories,5,51.22,15,West,Online,217.69,185.8,31.89
+ORD0265,2025-06-02,Mouse,Electronics,4,21.11,0,East,Online,84.44,67.76,16.68
+ORD0231,2025-06-03,Backpack,Accessories,6,68.22,10,South,Online,368.39,248.5,119.89
+ORD0083,2025-06-04,Headphones,Electronics,10,88.44,10,Central,Online,795.96,486.92,309.04
+ORD0157,2025-06-04,Pens,Stationery,1,3.05,20,West,Online,2.44,2.19,0.25
+ORD0238,2025-06-05,Monitor,Electronics,4,262.41,10,Central,Online,944.68,585.23,359.45
+ORD0091,2025-06-06,Bookshelf,Furniture,1,61.28,0,Central,In-store,61.28,44.58,16.7
+ORD0020,2025-06-07,Bookshelf,Furniture,1,64.58,5,South,Online,61.35,52.67,8.68
+ORD0047,2025-06-07,USB Drive,Electronics,6,22.48,0,East,Online,134.88,75.29,59.59
+ORD0217,2025-06-08,Mouse,Electronics,1,45.18,15,Central,In-store,38.4,27.77,10.63
+ORD0057,2025-06-10,Office Chair,Furniture,7,89.34,10,North,In-store,562.84,387.15,175.69
+ORD0255,2025-06-13,Keyboard,Electronics,10,77.2,0,South,In-store,772.0,617.14,154.86
+ORD0111,2025-06-14,Backpack,Accessories,8,87.68,5,North,Online,666.37,450.68,215.69
+ORD0122,2025-06-14,Office Chair,Furniture,6,188.14,10,South,Online,1015.96,741.2,274.76
+ORD0298,2025-06-14,Mouse,Electronics,12,35.08,10,South,In-store,378.86,316.46,62.4
+ORD0194,2025-06-18,Pens,Stationery,12,3.78,5,South,Online,43.09,28.71,14.38
+ORD0092,2025-06-19,Bookshelf,Furniture,9,137.91,5,East,In-store,1179.13,923.17,255.96
+ORD0214,2025-06-20,Mouse,Electronics,12,38.88,0,South,Online,466.56,324.06,142.5
+ORD0254,2025-06-20,Pens,Stationery,9,1.9,0,West,In-store,17.1,9.09,8.01
+ORD0004,2025-06-22,Water Bottle,Accessories,7,12.85,0,North,Online,89.95,72.6,17.35
+ORD0180,2025-06-23,Desk,Furniture,10,214.14,0,South,In-store,2141.4,1672.77,468.63
+ORD0243,2025-06-24,Water Bottle,Accessories,1,8.11,5,Central,Online,7.7,5.35,2.35
+ORD0133,2025-06-26,Printer Paper,Stationery,5,11.13,0,Central,In-store,55.65,36.31,19.34
+ORD0235,2025-06-26,Keyboard,Electronics,6,58.89,5,South,Online,335.67,255.83,79.84
+ORD0267,2025-06-26,Pens,Stationery,11,2.4,15,South,In-store,22.44,16.85,5.59
+ORD0008,2025-07-01,Desk,Furniture,5,230.56,15,South,In-store,979.88,655.71,324.17
+ORD0213,2025-07-02,Laptop,Electronics,11,862.78,5,North,In-store,9016.05,7062.84,1953.21
+ORD0006,2025-07-05,Printer Paper,Stationery,7,3.95,0,Central,Online,27.65,19.59,8.06
+ORD0250,2025-07-07,Notebook,Stationery,1,6.93,5,West,In-store,6.58,5.44,1.14
+ORD0253,2025-07-07,Keyboard,Electronics,2,40.75,15,South,Online,69.27,50.67,18.6
+ORD0084,2025-07-09,Desk Lamp,Furniture,10,53.48,5,North,In-store,508.06,346.82,161.24
+ORD0226,2025-07-09,Desk,Furniture,10,100.04,0,East,In-store,1000.4,655.24,345.16
+ORD0082,2025-07-12,Pens,Stationery,1,3.75,10,West,Online,3.38,2.97,0.41
+ORD0032,2025-07-14,Bookshelf,Furniture,8,82.41,5,North,In-store,626.32,354.42,271.9
+ORD0127,2025-07-14,Backpack,Accessories,2,78.88,15,East,In-store,134.1,122.71,11.39
+ORD0131,2025-07-15,Pens,Stationery,11,3.27,0,Central,Online,35.97,19.56,16.41
+ORD0134,2025-07-16,Backpack,Accessories,7,66.77,5,West,Online,444.02,285.41,158.61
+ORD0075,2025-07-21,USB Drive,Electronics,8,32.59,20,Central,Online,208.58,177.35,31.23
+ORD0038,2025-07-22,Printer Paper,Stationery,5,5.45,10,South,In-store,24.53,16.12,8.41
+ORD0150,2025-07-23,Backpack,Accessories,6,55.83,20,East,Online,267.98,210.23,57.75
+ORD0023,2025-07-24,Printer Paper,Stationery,9,12.06,10,East,In-store,97.69,79.66,18.03
+ORD0064,2025-07-24,Desk,Furniture,11,268.46,10,South,Online,2657.75,1875.76,781.99
+ORD0161,2025-07-24,Desk,Furniture,8,365.31,5,West,Online,2776.36,2245.12,531.24
+ORD0219,2025-07-24,USB Drive,Electronics,11,14.96,0,West,In-store,164.56,103.74,60.82
+ORD0244,2025-07-24,Office Chair,Furniture,12,140.46,20,South,In-store,1348.42,1051.11,297.31
+ORD0036,2025-07-26,USB Drive,Electronics,3,7.06,0,North,Online,21.18,16.49,4.69
+ORD0234,2025-07-30,Headphones,Electronics,5,58.61,10,West,Online,263.75,194.47,69.28
+ORD0049,2025-07-31,Printer Paper,Stationery,4,13.38,20,North,Online,42.82,40.85,1.97
+ORD0071,2025-08-01,Keyboard,Electronics,4,39.96,0,West,In-store,159.84,93.38,66.46
+ORD0204,2025-08-01,Printer Paper,Stationery,4,12.8,15,North,In-store,43.52,40.92,2.6
+ORD0288,2025-08-01,Printer Paper,Stationery,9,8.35,0,West,Online,75.15,42.05,33.1
+ORD0073,2025-08-03,Bookshelf,Furniture,1,209.98,0,Central,Online,209.98,133.76,76.22
+ORD0077,2025-08-04,Mouse,Electronics,8,23.36,15,East,Online,158.85,118.43,40.42
+ORD0172,2025-08-06,Desk Lamp,Furniture,10,14.64,0,West,In-store,146.4,95.59,50.81
+ORD0294,2025-08-06,Desk Lamp,Furniture,1,63.86,5,Central,In-store,60.67,46.98,13.69
+ORD0222,2025-08-07,Headphones,Electronics,2,51.45,0,South,In-store,102.9,67.27,35.63
+ORD0027,2025-08-09,Mouse,Electronics,8,45.95,0,East,In-store,367.6,201.84,165.76
+ORD0223,2025-08-11,Office Chair,Furniture,8,83.68,15,East,Online,569.02,418.91,150.11
+ORD0055,2025-08-12,Laptop,Electronics,2,978.11,5,Central,Online,1858.41,1478.76,379.65
+ORD0179,2025-08-12,Desk Lamp,Furniture,10,36.39,10,North,Online,327.51,228.73,98.78
+ORD0106,2025-08-13,Keyboard,Electronics,5,55.44,15,North,In-store,235.62,220.75,14.87
+ORD0189,2025-08-13,Notebook,Stationery,11,2.21,0,Central,Online,24.31,15.83,8.48
+ORD0198,2025-08-13,USB Drive,Electronics,12,28.13,15,North,In-store,286.93,192.3,94.63
+ORD0067,2025-08-15,Desk Lamp,Furniture,8,47.38,20,Central,In-store,303.23,264.81,38.42
+ORD0230,2025-08-16,Headphones,Electronics,3,104.99,5,North,In-store,299.22,248.7,50.52
+ORD0121,2025-08-17,USB Drive,Electronics,10,22.4,10,Central,In-store,201.6,174.63,26.97
+ORD0296,2025-08-17,Pens,Stationery,1,1.34,0,Central,Online,1.34,0.94,0.4
+ORD0199,2025-08-18,Office Chair,Furniture,11,222.52,20,South,Online,1958.18,1721.18,237.0
+ORD0068,2025-08-19,USB Drive,Electronics,9,18.38,0,East,Online,165.42,128.77,36.65
+ORD0245,2025-08-19,Notebook,Stationery,9,1.74,0,South,Online,15.66,8.72,6.94
+ORD0125,2025-08-22,USB Drive,Electronics,2,31.23,5,North,Online,59.34,42.33,17.01
+ORD0209,2025-08-23,Monitor,Electronics,2,121.46,5,North,Online,230.77,184.17,46.6
+ORD0216,2025-08-23,Backpack,Accessories,3,75.86,0,North,In-store,227.58,171.34,56.24
+ORD0248,2025-08-23,Printer Paper,Stationery,5,8.97,0,South,Online,44.85,28.61,16.24
+ORD0183,2025-08-26,Desk Lamp,Furniture,11,15.99,20,Central,In-store,140.71,124.6,16.11
+ORD0015,2025-08-28,Desk Lamp,Furniture,11,34.37,0,Central,In-store,378.07,239.88,138.19
+ORD0123,2025-08-31,Pens,Stationery,7,1.32,15,West,In-store,7.85,4.93,2.92
+ORD0283,2025-09-02,Backpack,Accessories,5,42.57,0,South,In-store,212.85,171.81,41.04
+ORD0118,2025-09-05,Printer Paper,Stationery,12,6.5,10,West,Online,70.2,50.28,19.92
+ORD0148,2025-09-08,Pens,Stationery,12,3.04,15,Central,In-store,31.01,26.14,4.87
+ORD0107,2025-09-10,Water Bottle,Accessories,5,22.19,20,West,Online,88.76,74.35,14.41
+ORD0276,2025-09-10,Printer Paper,Stationery,6,6.41,20,South,In-store,30.77,26.27,4.5
+ORD0088,2025-09-11,Mouse,Electronics,8,34.78,10,East,Online,250.42,172.76,77.66
+ORD0241,2025-09-12,Backpack,Accessories,4,72.52,5,Central,In-store,275.58,206.45,69.13
+ORD0176,2025-09-14,Water Bottle,Accessories,7,8.57,5,Central,In-store,56.99,43.86,13.13
+ORD0124,2025-09-15,Backpack,Accessories,11,88.56,5,Central,In-store,925.45,517.38,408.07
+ORD0256,2025-09-18,Pens,Stationery,12,3.45,10,Central,In-store,37.26,27.83,9.43
+ORD0113,2025-09-21,Headphones,Electronics,6,43.74,0,North,In-store,262.44,197.29,65.15
+ORD0247,2025-09-21,Printer Paper,Stationery,10,11.65,0,West,In-store,116.5,66.15,50.35
+ORD0220,2025-09-23,Office Chair,Furniture,3,176.72,5,East,Online,503.65,422.69,80.96
+ORD0237,2025-09-23,Monitor,Electronics,3,148.87,20,East,Online,357.29,262.45,94.84
+ORD0056,2025-09-24,Desk,Furniture,10,148.92,0,Central,Online,1489.2,969.2,520.0
+ORD0094,2025-09-26,Mouse,Electronics,4,42.71,0,Central,In-store,170.84,119.05,51.79
+ORD0140,2025-09-29,Keyboard,Electronics,4,21.65,10,Central,In-store,77.94,70.27,7.67
+ORD0270,2025-09-29,Pens,Stationery,12,2.55,0,South,Online,30.6,22.06,8.54
+ORD0086,2025-10-03,Desk,Furniture,3,317.48,20,West,In-store,761.95,572.44,189.51
+ORD0284,2025-10-03,Water Bottle,Accessories,10,13.71,10,South,Online,123.39,108.84,14.55
+ORD0070,2025-10-04,Headphones,Electronics,12,47.14,0,North,Online,565.68,348.41,217.27
+ORD0221,2025-10-07,Water Bottle,Accessories,7,6.05,10,East,In-store,38.12,32.47,5.65
+ORD0112,2025-10-09,Office Chair,Furniture,7,217.2,0,North,In-store,1520.4,1221.73,298.67
+ORD0116,2025-10-10,Laptop,Electronics,11,984.88,0,North,In-store,10833.68,6148.26,4685.42
+ORD0233,2025-10-10,Laptop,Electronics,6,954.71,5,South,Online,5441.85,4359.77,1082.08
+ORD0058,2025-10-11,Notebook,Stationery,5,5.67,5,South,Online,26.93,20.67,6.26
+ORD0152,2025-10-11,Mouse,Electronics,3,44.99,0,South,Online,134.97,103.78,31.19
+ORD0033,2025-10-12,Monitor,Electronics,8,178.46,10,West,Online,1284.91,1055.27,229.64
+ORD0099,2025-10-13,Keyboard,Electronics,10,81.29,0,West,Online,812.9,483.23,329.67
+ORD0048,2025-10-14,Printer Paper,Stationery,6,5.52,0,West,Online,33.12,18.24,14.88
+ORD0228,2025-10-15,Headphones,Electronics,1,93.04,5,North,In-store,88.39,59.18,29.21
+ORD0037,2025-10-17,Pens,Stationery,10,0.64,0,Central,In-store,6.4,4.59,1.81
+ORD0011,2025-10-18,Mouse,Electronics,1,45.84,5,East,Online,43.55,24.75,18.8
+ORD0200,2025-10-20,Monitor,Electronics,8,326.95,0,West,In-store,2615.6,1892.37,723.23
+ORD0098,2025-10-23,USB Drive,Electronics,8,8.42,0,North,Online,67.36,44.96,22.4
+ORD0060,2025-10-24,Desk,Furniture,9,348.45,5,Central,In-store,2979.25,1828.49,1150.76
+ORD0013,2025-10-26,Water Bottle,Accessories,9,18.01,10,West,In-store,145.88,105.12,40.76
+ORD0287,2025-10-26,Keyboard,Electronics,6,74.38,5,West,Online,423.97,323.15,100.82
+ORD0072,2025-10-27,Notebook,Stationery,8,3.91,0,North,In-store,31.28,20.21,11.07
+ORD0100,2025-10-29,Desk Lamp,Furniture,9,32.16,20,West,In-store,231.55,176.33,55.22
+ORD0185,2025-10-30,Bookshelf,Furniture,2,127.06,10,North,In-store,228.71,192.85,35.86
+ORD0089,2025-11-02,Bookshelf,Furniture,4,107.09,0,East,Online,428.36,258.69,169.67
+ORD0002,2025-11-05,Pens,Stationery,7,0.61,0,North,Online,4.27,2.52,1.75
+ORD0022,2025-11-07,Keyboard,Electronics,11,46.7,10,West,Online,462.33,307.97,154.36
+ORD0018,2025-11-08,Notebook,Stationery,2,7.09,0,South,Online,14.18,10.09,4.09
+ORD0063,2025-11-09,Desk Lamp,Furniture,4,19.81,0,North,In-store,79.24,64.59,14.65
+ORD0167,2025-11-11,Desk Lamp,Furniture,7,56.79,20,Central,Online,318.02,304.32,13.7
+ORD0059,2025-11-12,Desk,Furniture,11,381.51,10,Central,In-store,3776.95,3318.85,458.1
+ORD0039,2025-11-15,Bookshelf,Furniture,6,207.58,20,Central,Online,996.38,651.13,345.25
+ORD0159,2025-11-16,Printer Paper,Stationery,2,6.87,0,Central,In-store,13.74,7.66,6.08
+ORD0114,2025-11-17,Desk,Furniture,1,148.15,5,West,Online,140.74,110.66,30.08
+ORD0184,2025-11-18,Backpack,Accessories,10,63.22,20,East,Online,505.76,390.04,115.72
+ORD0085,2025-11-22,Laptop,Electronics,7,1102.28,0,West,Online,7715.96,6236.32,1479.64
+ORD0053,2025-11-25,Office Chair,Furniture,5,252.19,20,Central,In-store,1008.76,761.28,247.48
+ORD0240,2025-11-25,USB Drive,Electronics,10,6.24,15,Central,In-store,53.04,33.97,19.07
+ORD0300,2025-11-26,Backpack,Accessories,11,47.04,5,West,In-store,491.57,420.0,71.57
+ORD0028,2025-11-27,Desk,Furniture,8,357.79,0,North,Online,2862.32,2049.53,812.79
+ORD0291,2025-11-27,Laptop,Electronics,5,874.88,15,West,In-store,3718.24,3279.7,438.54
+ORD0277,2025-11-28,Monitor,Electronics,4,304.12,5,East,Online,1155.66,899.39,256.27
+ORD0227,2025-11-29,Desk Lamp,Furniture,2,42.42,10,East,Online,76.36,54.25,22.11
+ORD0041,2025-12-01,Monitor,Electronics,3,215.16,10,Central,Online,580.93,394.23,186.7
+ORD0249,2025-12-01,Pens,Stationery,6,0.67,0,West,In-store,4.02,2.81,1.21
+ORD0268,2025-12-02,Laptop,Electronics,5,1175.42,0,East,In-store,5877.1,4685.24,1191.86
+ORD0052,2025-12-04,Office Chair,Furniture,5,243.21,15,South,In-store,1033.64,713.67,319.97
+ORD0239,2025-12-04,Notebook,Stationery,11,2.18,20,Central,In-store,19.18,13.58,5.6
+ORD0104,2025-12-05,Backpack,Accessories,4,84.29,15,South,In-store,286.59,238.55,48.04
+ORD0164,2025-12-07,Pens,Stationery,9,2.47,10,West,Online,20.01,14.3,5.71
+ORD0211,2025-12-07,Desk,Furniture,1,280.59,0,North,In-store,280.59,180.97,99.62
+ORD0074,2025-12-09,Bookshelf,Furniture,4,92.76,5,West,Online,352.49,236.23,116.26
+ORD0143,2025-12-11,Headphones,Electronics,7,19.42,10,East,In-store,122.35,89.24,33.11
+ORD0257,2025-12-11,Water Bottle,Accessories,10,11.79,15,North,In-store,100.21,74.34,25.87
+ORD0142,2025-12-12,Bookshelf,Furniture,2,69.63,20,West,In-store,111.41,108.35,3.06
+ORD0190,2025-12-14,Office Chair,Furniture,6,263.18,5,Central,Online,1500.13,1188.0,312.13
+ORD0191,2025-12-14,Desk Lamp,Furniture,11,46.31,0,West,In-store,509.41,279.34,230.07
+ORD0224,2025-12-14,Headphones,Electronics,11,83.03,5,South,Online,867.66,694.43,173.23
+ORD0252,2025-12-15,Notebook,Stationery,8,6.35,0,Central,Online,50.8,41.49,9.31
+ORD0010,2025-12-17,Desk,Furniture,5,396.75,10,East,Online,1785.38,1363.0,422.38
+ORD0215,2025-12-17,Office Chair,Furniture,9,144.4,10,West,In-store,1169.64,999.54,170.1
+ORD0162,2025-12-18,Office Chair,Furniture,7,139.07,0,West,Online,973.49,784.71,188.78
+ORD0046,2025-12-20,Notebook,Stationery,12,3.99,0,South,Online,47.88,25.98,21.9
+ORD0264,2025-12-21,Notebook,Stationery,6,5.73,15,East,In-store,29.22,24.9,4.32
+ORD0229,2025-12-22,Desk Lamp,Furniture,5,49.31,0,West,Online,246.55,173.46,73.09
+ORD0147,2025-12-23,Printer Paper,Stationery,9,4.63,5,Central,In-store,39.59,30.05,9.54
+ORD0115,2025-12-24,Mouse,Electronics,5,33.81,20,West,Online,135.24,110.13,25.11
+ORD0193,2025-12-24,Pens,Stationery,11,0.99,5,West,Online,10.35,8.82,1.53
+ORD0145,2025-12-25,Printer Paper,Stationery,10,5.66,0,East,In-store,56.6,43.42,13.18
+ORD0168,2025-12-26,Pens,Stationery,11,3.4,0,East,In-store,37.4,21.47,15.93
+ORD0282,2025-12-27,Bookshelf,Furniture,5,72.95,10,East,Online,328.28,290.68,37.6
+ORD0285,2025-12-27,Backpack,Accessories,10,80.49,0,East,Online,804.9,526.42,278.48
+ORD0095,2025-12-29,Headphones,Electronics,4,48.22,5,Central,Online,183.24,117.79,65.45
+ORD0158,2025-12-31,Laptop,Electronics,8,1116.01,5,West,Online,8481.68,4931.77,3549.91
